@@ -1,4 +1,3 @@
-Crude Oil Heater Simulator
 This repository contains the code for a crude oil heater simulator developed using assembly language for the PIC16F877A microcontroller. The simulation controls various inputs and outputs related to a crude oil heating system, ensuring the proper functioning of burners, pumps, valves, and safety mechanisms.
 
 Features
